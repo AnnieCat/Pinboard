@@ -1,0 +1,13 @@
+﻿Build started 3/5/2015 10:02:24 AM.
+     1>Project "C:\Users\anniehar\Desktop\HowDoesCppWork\HowDoesCppWork\HowDoesCppWork.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\anniehar\Desktop\HowDoesCppWork\Debug\HowDoesCppWork.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\anniehar\Desktop\HowDoesCppWork\Debug\HowDoesCppWork.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\anniehar\Desktop\HowDoesCppWork\Debug\HowDoesCppWork.lib" /MACHINE:X86 Debug\a.obj
+         Debug\b.obj
+         Debug\c.obj
+         C:\Users\anniehar\Desktop\HowDoesCppWork\Debug\HowDoDllsWork.lib
+         HowDoesCppWork.vcxproj -> C:\Users\anniehar\Desktop\HowDoesCppWork\Debug\HowDoesCppWork.exe
+     1>Done Building Project "C:\Users\anniehar\Desktop\HowDoesCppWork\HowDoesCppWork\HowDoesCppWork.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.34
